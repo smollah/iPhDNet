@@ -13,8 +13,6 @@ For more information on the methods, see the supplementary PDF to the paper:
 
 Data download links for GCP and P100 data:
 
-https://panoramaweb.org/_webdav/LINCS/P100/%40files/GCT/LINCS_GCP_Plate29_annotated_minimized_2016-01-08_09-27-26.processed.gct
-
 https://panoramaweb.org/_webdav/LINCS/P100/%40files/GCT/LINCS_P100_PRM_Plate29_06H_annotated_minimized_2016-01-28_17-11-17.gct
 
 https://panoramaweb.org/_webdav/LINCS/P100/%40files/GCT/LINCS_P100_PRM_Plate29_24H_annotated_minimized_2016-01-28_17-11-22.gct
