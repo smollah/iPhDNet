@@ -9,7 +9,7 @@ For more information on the methods, see the supplementary PDF to the paper:
 
 # Instructions to Reproduce
 
-1. Downloading the data
+1. Downloading the unprocessed data
 
 Data download links for GCP and P100 data:
 
@@ -28,3 +28,5 @@ https://panoramaweb.org/_webdav/LINCS/GCP/@files/GCT/LINCS_GCP_Plate34_annotated
 https://panoramaweb.org/_webdav/LINCS/GCP/@files/GCT/LINCS_GCP_Plate33_annotated_minimized_2016-06-03_14-58-02.gct
 
 https://panoramaweb.org/_webdav/LINCS/GCP/@files/GCT/LINCS_GCP_Plate27_annotated_minimized_2016-04-14_14-24-09.gct
+
+2. Preprocessing the data
