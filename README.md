@@ -29,4 +29,8 @@ https://panoramaweb.org/_webdav/LINCS/GCP/@files/GCT/LINCS_GCP_Plate33_annotated
 
 https://panoramaweb.org/_webdav/LINCS/GCP/@files/GCT/LINCS_GCP_Plate27_annotated_minimized_2016-04-14_14-24-09.gct
 
+Download links for transcriptomic data:
+
+...
+
 2. Preprocessing the data
