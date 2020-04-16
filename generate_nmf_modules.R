@@ -3,11 +3,6 @@
 # Created: 12-10-2016
 # 
 # Generate functional modules using NMF
-#
-# How to cite:
-# S. A. Mollah and S. Subramaniam, “Histone Signatures Predict Therapeutic Efficacy in Breast Cancer”. 
-# 2020, IEEE Open Journal of Engineering in Medicine and Biology, vol. 1, pp. 74-82.
-# (doi.org/10.1109/OJEMB.2020.2967105)
 #-----------------------------------------------------------------------------
 
 #set directory
@@ -27,12 +22,14 @@ fun <- function(x){
 
 # centered histone data
 hi=as.data.frame(YNormZ)
-
+#hi=as.data.frame(histon_data)
 #2^ log fc value
 YNormZ_anti=as.data.frame(sapply(hi, function(x) 2^x))
 
 #[0-1] range
 mat_hist <- apply(YNormZ_anti, 2, fun) 
+#mat_hist <- YNormZ2
+
 
 #to identify optimal factorization rank
 V.random <- randomize(mat_hist)
