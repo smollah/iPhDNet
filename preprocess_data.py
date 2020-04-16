@@ -11,6 +11,8 @@ import cmapPy.pandasGEXpress.parse
 in_out = [
     ('LINCS_GCP_Plate27_annotated_minimized_2016-04-14_14-24-09.gct',
      "60histon_24hr_final.txt"),
+    ('LINCS_GCP_Plate27_annotated_minimized_2016-04-14_14-24-09.gct',
+     "60histon_24hr.txt"),
     ("LINCS_P100_PRM_Plate29_24H_annotated_minimized_2016-01-28_17-11-22.gct",
      "peptide_24hr_final.txt")
 ]
